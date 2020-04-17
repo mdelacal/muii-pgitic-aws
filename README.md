@@ -26,7 +26,7 @@ $ vagrant --version
 ```
 Creamos la imagen dummy:
 ```
-vagrant box add dummy https://github.com/mitchellh/vagrant-aws/raw/master/dummy.box
+vagrant box add aws-dummy https://github.com/mitchellh/vagrant-aws/raw/master/dummy.box
 ```
 
 ## Ejecución:
@@ -40,5 +40,5 @@ Proyecto bajo licencia [LICENSE.md](LICENSE.md)
 
 ---
 _Proyecto realizado por:_
+* **Miguel de la Cal Bravo** - [Miguel de la Cal Bravo](https://github.com/miguelcal97)
 * **Félix Ángel Martínez Muela** - [Félix Ángel Martínez](https://github.com/FelixAngelMartinez)
-* **Miguel de la Cal Bravo** - [Miguel de la Cal Bravo](https://gitlab.com/miguelcal97)
